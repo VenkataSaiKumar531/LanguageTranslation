@@ -1,0 +1,9 @@
+.left {
+  color: blue;
+}
+
+.dropdown-menu-right {
+  color: chartreuse;
+  position: absolute;
+  right: 0%;
+}
